@@ -1,0 +1,7 @@
+database:
+  user: user
+  password: password
+  host: host
+  
+logging:
+  log_level: INFO
